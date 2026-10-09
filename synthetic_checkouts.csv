@@ -1,0 +1,181 @@
+checkout_code,borrower_code,borrower_name,department,asset_code,equipment_name,category_code,category_name,checkout_date,due_date,returned_date,checkout_condition,return_condition,status
+CO-3001,BR-2011,Putri Example,Engineering Lab,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-01-13,2026-01-27,2026-01-27,Good,Good,Returned
+CO-3002,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1018,Mini PC,CAT-01,Computing,2026-02-14,2026-02-24,2026-02-24,Good,Good,Returned
+CO-3003,BR-2001,Nadia Example,Digital Media,EQ-1018,Mini PC,CAT-01,Computing,2026-04-12,2026-04-26,2026-04-26,Good,Good,Returned
+CO-3004,BR-2013,Intan Sample,Computer Science,EQ-1001,Teaching Laptop 14-inch,CAT-01,Computing,2026-03-23,2026-04-06,2026-04-06,Good,Good,Returned
+CO-3005,BR-2002,Rafi Sample,Computer Science,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-07-14,2026-07-17,2026-07-17,Good,Good,Returned
+CO-3006,BR-2008,Tono Fiction,Learning Services,EQ-1018,Mini PC,CAT-01,Computing,2026-03-05,2026-03-12,,Good,,Overdue
+CO-3007,BR-2011,Putri Example,Engineering Lab,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-07-05,2026-07-15,2026-07-15,Good,Good,Returned
+CO-3008,BR-2002,Rafi Sample,Computer Science,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-02-21,2026-02-28,2026-03-01,Good,Good,Returned
+CO-3009,BR-2004,Dimas Fiction,Computer Science,EQ-1009,Tablet 10-inch,CAT-01,Computing,2026-02-06,2026-02-16,2026-02-16,Good,Good,Returned
+CO-3010,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1018,Mini PC,CAT-01,Computing,2026-04-23,2026-05-07,2026-05-09,Good,Good,Returned
+CO-3011,BR-2013,Intan Sample,Computer Science,EQ-1011,Tripod Kit,CAT-04,Photography,2026-07-25,2026-08-01,,Good,,Overdue
+CO-3012,BR-2010,Gilang Sample,Digital Media,EQ-1011,Tripod Kit,CAT-04,Photography,2026-04-19,2026-05-03,2026-05-05,Good,Good,Returned
+CO-3013,BR-2003,Mira Demo,Learning Services,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-10-03,2026-10-10,,Good,,Active
+CO-3014,BR-2010,Gilang Sample,Digital Media,EQ-1013,USB Microphone,CAT-02,Audio Visual,2026-07-05,2026-07-10,2026-07-10,Good,Good,Returned
+CO-3015,BR-2014,Kevin Demo,Digital Media,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-03-20,2026-04-03,,Good,,Overdue
+CO-3016,BR-2010,Gilang Sample,Digital Media,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-07-17,2026-07-24,2026-07-24,Good,Good,Returned
+CO-3017,BR-2001,Nadia Example,Digital Media,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-10-02,2026-10-09,,Good,,Active
+CO-3018,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-03-22,2026-03-29,,Good,,Overdue
+CO-3019,BR-2012,Farhan Fiction,Learning Services,EQ-1009,Tablet 10-inch,CAT-01,Computing,2026-09-14,2026-09-19,2026-09-19,Good,Good,Returned
+CO-3020,BR-2009,Lina Demo,Computer Science,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-04-12,2026-04-17,2026-04-17,Good,Minor Damage,Returned
+CO-3021,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1001,Teaching Laptop 14-inch,CAT-01,Computing,2026-06-15,2026-06-22,,Good,,Overdue
+CO-3022,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-05-03,2026-05-06,2026-05-06,Good,Good,Returned
+CO-3023,BR-2014,Kevin Demo,Digital Media,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-09-30,2026-10-05,,Good,,Overdue
+CO-3024,BR-2009,Lina Demo,Computer Science,EQ-1006,Portable Projector,CAT-02,Audio Visual,2026-05-16,2026-05-26,2026-05-26,Good,Good,Returned
+CO-3025,BR-2012,Farhan Fiction,Learning Services,EQ-1007,Document Camera,CAT-02,Audio Visual,2026-06-09,2026-06-16,2026-06-17,Good,Good,Returned
+CO-3026,BR-2002,Rafi Sample,Computer Science,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-04-26,2026-04-29,2026-04-30,Good,Good,Returned
+CO-3027,BR-2002,Rafi Sample,Computer Science,EQ-1002,Wireless Microphone Set,CAT-02,Audio Visual,2026-04-28,2026-05-01,2026-05-03,Good,Good,Returned
+CO-3028,BR-2011,Putri Example,Engineering Lab,EQ-1016,Webcam HD,CAT-02,Audio Visual,2026-04-20,2026-04-30,,Good,,Overdue
+CO-3029,BR-2010,Gilang Sample,Digital Media,EQ-1019,Router Lab Kit,CAT-03,Networking,2026-08-31,2026-09-05,2026-09-07,Good,Good,Returned
+CO-3030,BR-2007,Ayu Example,Engineering Lab,EQ-1012,Teaching Laptop 15-inch,CAT-01,Computing,2026-08-05,2026-08-12,2026-08-13,Needs Inspection,Good,Returned
+CO-3031,BR-2002,Rafi Sample,Computer Science,EQ-1002,Wireless Microphone Set,CAT-02,Audio Visual,2026-07-26,2026-08-09,2026-08-11,Good,Good,Returned
+CO-3032,BR-2008,Tono Fiction,Learning Services,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-08-05,2026-08-10,2026-08-10,Good,Minor Damage,Returned
+CO-3033,BR-2014,Kevin Demo,Digital Media,EQ-1018,Mini PC,CAT-01,Computing,2026-02-20,2026-02-23,2026-02-23,Good,Good,Returned
+CO-3034,BR-2013,Intan Sample,Computer Science,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-03-27,2026-04-03,2026-04-03,Good,Good,Returned
+CO-3035,BR-2007,Ayu Example,Engineering Lab,EQ-1001,Teaching Laptop 14-inch,CAT-01,Computing,2026-07-19,2026-07-26,2026-07-28,Good,Good,Returned
+CO-3036,BR-2012,Farhan Fiction,Learning Services,EQ-1018,Mini PC,CAT-01,Computing,2026-09-07,2026-09-12,2026-09-12,Good,Good,Returned
+CO-3037,BR-2001,Nadia Example,Digital Media,EQ-1011,Tripod Kit,CAT-04,Photography,2026-01-30,2026-02-02,2026-02-02,Good,Good,Returned
+CO-3038,BR-2009,Lina Demo,Computer Science,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-04-06,2026-04-09,2026-04-10,Good,Good,Returned
+CO-3039,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1019,Router Lab Kit,CAT-03,Networking,2026-05-07,2026-05-17,2026-05-18,Good,Good,Returned
+CO-3040,BR-2009,Lina Demo,Computer Science,EQ-1011,Tripod Kit,CAT-04,Photography,2026-05-14,2026-05-19,2026-05-19,Good,Good,Returned
+CO-3041,BR-2011,Putri Example,Engineering Lab,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-08-23,2026-08-30,2026-09-02,Good,Good,Returned
+CO-3042,BR-2010,Gilang Sample,Digital Media,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-02-07,2026-02-17,2026-02-17,Good,Minor Damage,Returned
+CO-3043,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-07-09,2026-07-16,,Good,,Overdue
+CO-3044,BR-2012,Farhan Fiction,Learning Services,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-09-28,2026-10-01,2026-10-01,Good,Minor Damage,Returned
+CO-3045,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-05-16,2026-05-19,2026-05-20,Good,Good,Returned
+CO-3046,BR-2004,Dimas Fiction,Computer Science,EQ-1011,Tripod Kit,CAT-04,Photography,2026-04-15,2026-04-29,2026-04-29,Good,Good,Returned
+CO-3047,BR-2014,Kevin Demo,Digital Media,EQ-1002,Wireless Microphone Set,CAT-02,Audio Visual,2026-02-17,2026-03-03,2026-03-03,Good,Good,Returned
+CO-3048,BR-2011,Putri Example,Engineering Lab,EQ-1009,Tablet 10-inch,CAT-01,Computing,2026-03-24,2026-04-07,2026-04-08,Good,Good,Returned
+CO-3049,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-10-07,2026-10-10,,Good,,Active
+CO-3050,BR-2003,Mira Demo,Learning Services,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-03-07,2026-03-10,2026-03-13,Good,Good,Returned
+CO-3051,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1012,Teaching Laptop 15-inch,CAT-01,Computing,2026-04-18,2026-05-02,2026-05-02,Good,Good,Returned
+CO-3052,BR-2007,Ayu Example,Engineering Lab,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-03-21,2026-03-26,2026-03-30,Good,Good,Returned
+CO-3053,BR-2001,Nadia Example,Digital Media,EQ-1006,Portable Projector,CAT-02,Audio Visual,2026-06-20,2026-06-27,2026-06-29,Good,Good,Returned
+CO-3054,BR-2013,Intan Sample,Computer Science,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-07-15,2026-07-18,2026-07-18,Good,Good,Returned
+CO-3055,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-04-25,2026-04-28,2026-04-28,Good,Good,Returned
+CO-3056,BR-2013,Intan Sample,Computer Science,EQ-1009,Tablet 10-inch,CAT-01,Computing,2026-06-29,2026-07-13,2026-07-14,Good,Good,Returned
+CO-3057,BR-2001,Nadia Example,Digital Media,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-05-14,2026-05-19,2026-05-23,Good,Good,Returned
+CO-3058,BR-2006,Bima Sample,Digital Media,EQ-1011,Tripod Kit,CAT-04,Photography,2026-08-12,2026-08-22,2026-08-22,Good,Minor Damage,Returned
+CO-3059,BR-2001,Nadia Example,Digital Media,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-01-01,2026-01-11,2026-01-11,Good,Good,Returned
+CO-3060,BR-2011,Putri Example,Engineering Lab,EQ-1007,Document Camera,CAT-02,Audio Visual,2026-07-06,2026-07-13,,Good,,Overdue
+CO-3061,BR-2006,Bima Sample,Digital Media,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-06-10,2026-06-24,2026-06-25,Good,Good,Returned
+CO-3062,BR-2007,Ayu Example,Engineering Lab,EQ-1011,Tripod Kit,CAT-04,Photography,2026-07-26,2026-08-09,2026-08-09,Minor Damage,Good,Returned
+CO-3063,BR-2011,Putri Example,Engineering Lab,EQ-1006,Portable Projector,CAT-02,Audio Visual,2026-06-04,2026-06-11,2026-06-11,Good,Good,Returned
+CO-3064,BR-2010,Gilang Sample,Digital Media,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-06-14,2026-06-21,2026-06-22,Good,Good,Returned
+CO-3065,BR-2013,Intan Sample,Computer Science,EQ-1006,Portable Projector,CAT-02,Audio Visual,2026-02-13,2026-02-20,2026-02-21,Good,Good,Returned
+CO-3066,BR-2013,Intan Sample,Computer Science,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-06-08,2026-06-13,2026-06-13,Needs Inspection,Good,Returned
+CO-3067,BR-2010,Gilang Sample,Digital Media,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-08-22,2026-08-29,2026-08-29,Good,Good,Returned
+CO-3068,BR-2007,Ayu Example,Engineering Lab,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-03-17,2026-03-31,2026-04-03,Good,Good,Returned
+CO-3069,BR-2013,Intan Sample,Computer Science,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-04-23,2026-04-28,2026-04-29,Good,Good,Returned
+CO-3070,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-08-22,2026-08-27,2026-08-28,Good,Needs Inspection,Returned
+CO-3071,BR-2013,Intan Sample,Computer Science,EQ-1015,Portable SSD,CAT-05,Accessories,2026-09-16,2026-09-23,2026-09-23,Good,Minor Damage,Returned
+CO-3072,BR-2008,Tono Fiction,Learning Services,EQ-1015,Portable SSD,CAT-05,Accessories,2026-05-13,2026-05-18,2026-05-18,Good,Good,Returned
+CO-3073,BR-2004,Dimas Fiction,Computer Science,EQ-1009,Tablet 10-inch,CAT-01,Computing,2026-08-14,2026-08-17,2026-08-17,Good,Good,Returned
+CO-3074,BR-2002,Rafi Sample,Computer Science,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-03-19,2026-03-24,2026-03-24,Good,Good,Returned
+CO-3075,BR-2006,Bima Sample,Digital Media,EQ-1018,Mini PC,CAT-01,Computing,2026-08-27,2026-09-03,,Good,,Overdue
+CO-3076,BR-2007,Ayu Example,Engineering Lab,EQ-1019,Router Lab Kit,CAT-03,Networking,2026-01-11,2026-01-21,2026-01-21,Good,Good,Returned
+CO-3077,BR-2014,Kevin Demo,Digital Media,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-10-03,2026-10-17,,Good,,Active
+CO-3078,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-09-07,2026-09-12,2026-09-12,Good,Good,Returned
+CO-3079,BR-2013,Intan Sample,Computer Science,EQ-1013,USB Microphone,CAT-02,Audio Visual,2026-03-26,2026-04-02,2026-04-06,Good,Good,Returned
+CO-3080,BR-2010,Gilang Sample,Digital Media,EQ-1019,Router Lab Kit,CAT-03,Networking,2026-01-14,2026-01-17,2026-01-17,Good,Good,Returned
+CO-3081,BR-2007,Ayu Example,Engineering Lab,EQ-1011,Tripod Kit,CAT-04,Photography,2026-04-19,2026-04-26,2026-04-28,Good,Good,Returned
+CO-3082,BR-2014,Kevin Demo,Digital Media,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-05-10,2026-05-13,2026-05-14,Minor Damage,Good,Returned
+CO-3083,BR-2004,Dimas Fiction,Computer Science,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-01-21,2026-01-24,2026-01-24,Good,Good,Returned
+CO-3084,BR-2003,Mira Demo,Learning Services,EQ-1016,Webcam HD,CAT-02,Audio Visual,2026-02-28,2026-03-10,2026-03-10,Good,Good,Returned
+CO-3085,BR-2010,Gilang Sample,Digital Media,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-02-28,2026-03-05,2026-03-05,Good,Good,Returned
+CO-3086,BR-2011,Putri Example,Engineering Lab,EQ-1013,USB Microphone,CAT-02,Audio Visual,2026-07-23,2026-08-06,2026-08-07,Good,Good,Returned
+CO-3087,BR-2012,Farhan Fiction,Learning Services,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-03-03,2026-03-13,2026-03-13,Good,Good,Returned
+CO-3088,BR-2009,Lina Demo,Computer Science,EQ-1011,Tripod Kit,CAT-04,Photography,2026-01-07,2026-01-14,2026-01-14,Good,Needs Inspection,Returned
+CO-3089,BR-2014,Kevin Demo,Digital Media,EQ-1015,Portable SSD,CAT-05,Accessories,2026-03-20,2026-03-27,2026-03-27,Good,Good,Returned
+CO-3090,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1018,Mini PC,CAT-01,Computing,2026-09-05,2026-09-12,2026-09-13,Good,Good,Returned
+CO-3091,BR-2014,Kevin Demo,Digital Media,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-05-23,2026-05-30,2026-05-30,Good,Good,Returned
+CO-3092,BR-2001,Nadia Example,Digital Media,EQ-1016,Webcam HD,CAT-02,Audio Visual,2026-06-16,2026-06-21,2026-06-21,Good,Good,Returned
+CO-3093,BR-2010,Gilang Sample,Digital Media,EQ-1009,Tablet 10-inch,CAT-01,Computing,2026-01-06,2026-01-16,2026-01-16,Good,Good,Returned
+CO-3094,BR-2013,Intan Sample,Computer Science,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-09-01,2026-09-15,2026-09-15,Good,Good,Returned
+CO-3095,BR-2007,Ayu Example,Engineering Lab,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-06-06,2026-06-20,2026-06-20,Good,Good,Returned
+CO-3096,BR-2012,Farhan Fiction,Learning Services,EQ-1018,Mini PC,CAT-01,Computing,2026-06-19,2026-06-26,2026-06-26,Good,Good,Returned
+CO-3097,BR-2004,Dimas Fiction,Computer Science,EQ-1011,Tripod Kit,CAT-04,Photography,2026-03-03,2026-03-17,2026-03-19,Good,Good,Returned
+CO-3098,BR-2008,Tono Fiction,Learning Services,EQ-1009,Tablet 10-inch,CAT-01,Computing,2026-09-26,2026-10-06,2026-10-06,Good,Good,Returned
+CO-3099,BR-2003,Mira Demo,Learning Services,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-01-08,2026-01-22,2026-01-22,Good,Needs Inspection,Returned
+CO-3100,BR-2012,Farhan Fiction,Learning Services,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-09-09,2026-09-12,2026-09-12,Good,Good,Returned
+CO-3101,BR-2003,Mira Demo,Learning Services,EQ-1002,Wireless Microphone Set,CAT-02,Audio Visual,2026-05-10,2026-05-17,,Good,,Overdue
+CO-3102,BR-2008,Tono Fiction,Learning Services,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-01-28,2026-02-02,,Good,,Overdue
+CO-3103,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-05-08,2026-05-11,2026-05-11,Good,Good,Returned
+CO-3104,BR-2013,Intan Sample,Computer Science,EQ-1017,Lighting Kit,CAT-04,Photography,2026-07-14,2026-07-21,2026-07-21,Good,Good,Returned
+CO-3105,BR-2010,Gilang Sample,Digital Media,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-01-31,2026-02-10,2026-02-10,Good,Good,Returned
+CO-3106,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-03-22,2026-03-27,2026-03-27,Good,Good,Returned
+CO-3107,BR-2010,Gilang Sample,Digital Media,EQ-1016,Webcam HD,CAT-02,Audio Visual,2026-05-30,2026-06-02,2026-06-03,Good,Good,Returned
+CO-3108,BR-2011,Putri Example,Engineering Lab,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-05-16,2026-05-30,2026-06-01,Good,Good,Returned
+CO-3109,BR-2004,Dimas Fiction,Computer Science,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-05-17,2026-05-22,,Good,,Overdue
+CO-3110,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-05-28,2026-06-04,,Good,,Overdue
+CO-3111,BR-2012,Farhan Fiction,Learning Services,EQ-1013,USB Microphone,CAT-02,Audio Visual,2026-05-20,2026-05-30,2026-05-30,Good,Good,Returned
+CO-3112,BR-2012,Farhan Fiction,Learning Services,EQ-1011,Tripod Kit,CAT-04,Photography,2026-05-09,2026-05-12,,Minor Damage,,Overdue
+CO-3113,BR-2014,Kevin Demo,Digital Media,EQ-1019,Router Lab Kit,CAT-03,Networking,2026-01-11,2026-01-25,2026-01-25,Good,Good,Returned
+CO-3114,BR-2009,Lina Demo,Computer Science,EQ-1015,Portable SSD,CAT-05,Accessories,2026-05-23,2026-05-28,2026-05-28,Minor Damage,Good,Returned
+CO-3115,BR-2008,Tono Fiction,Learning Services,EQ-1012,Teaching Laptop 15-inch,CAT-01,Computing,2026-07-29,2026-08-05,2026-08-05,Good,Good,Returned
+CO-3116,BR-2008,Tono Fiction,Learning Services,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-07-25,2026-08-04,,Good,,Overdue
+CO-3117,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1011,Tripod Kit,CAT-04,Photography,2026-03-01,2026-03-08,2026-03-10,Good,Good,Returned
+CO-3118,BR-2008,Tono Fiction,Learning Services,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-01-28,2026-02-02,2026-02-03,Good,Good,Returned
+CO-3119,BR-2001,Nadia Example,Digital Media,EQ-1007,Document Camera,CAT-02,Audio Visual,2026-05-17,2026-05-27,,Good,,Overdue
+CO-3120,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1016,Webcam HD,CAT-02,Audio Visual,2026-03-04,2026-03-07,2026-03-08,Good,Good,Returned
+CO-3121,BR-2009,Lina Demo,Computer Science,EQ-1001,Teaching Laptop 14-inch,CAT-01,Computing,2026-07-28,2026-07-31,2026-08-02,Minor Damage,Good,Returned
+CO-3122,BR-2011,Putri Example,Engineering Lab,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-09-13,2026-09-27,2026-09-28,Good,Good,Returned
+CO-3123,BR-2008,Tono Fiction,Learning Services,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-08-22,2026-09-01,,Good,,Overdue
+CO-3124,BR-2010,Gilang Sample,Digital Media,EQ-1017,Lighting Kit,CAT-04,Photography,2026-03-11,2026-03-14,2026-03-16,Good,Good,Returned
+CO-3125,BR-2009,Lina Demo,Computer Science,EQ-1009,Tablet 10-inch,CAT-01,Computing,2026-01-02,2026-01-09,2026-01-11,Good,Good,Returned
+CO-3126,BR-2014,Kevin Demo,Digital Media,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-08-17,2026-08-27,2026-08-27,Good,Good,Returned
+CO-3127,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1011,Tripod Kit,CAT-04,Photography,2026-04-07,2026-04-21,2026-04-21,Good,Good,Returned
+CO-3128,BR-2006,Bima Sample,Digital Media,EQ-1016,Webcam HD,CAT-02,Audio Visual,2026-07-15,2026-07-22,2026-07-24,Good,Good,Returned
+CO-3129,BR-2001,Nadia Example,Digital Media,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-09-15,2026-09-25,2026-09-25,Good,Good,Returned
+CO-3130,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1015,Portable SSD,CAT-05,Accessories,2026-01-08,2026-01-22,,Good,,Overdue
+CO-3131,BR-2003,Mira Demo,Learning Services,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-08-29,2026-09-05,2026-09-06,Good,Good,Returned
+CO-3132,BR-2014,Kevin Demo,Digital Media,EQ-1018,Mini PC,CAT-01,Computing,2026-07-14,2026-07-21,2026-07-23,Good,Good,Returned
+CO-3133,BR-2010,Gilang Sample,Digital Media,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-05-01,2026-05-15,2026-05-15,Good,Good,Returned
+CO-3134,BR-2002,Rafi Sample,Computer Science,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-08-16,2026-08-21,2026-08-24,Good,Good,Returned
+CO-3135,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1012,Teaching Laptop 15-inch,CAT-01,Computing,2026-07-11,2026-07-18,,Good,,Overdue
+CO-3136,BR-2010,Gilang Sample,Digital Media,EQ-1006,Portable Projector,CAT-02,Audio Visual,2026-03-29,2026-04-03,,Good,,Overdue
+CO-3137,BR-2010,Gilang Sample,Digital Media,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-09-12,2026-09-22,,Good,,Overdue
+CO-3138,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1015,Portable SSD,CAT-05,Accessories,2026-05-11,2026-05-25,,Good,,Overdue
+CO-3139,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-10-07,2026-10-12,,Minor Damage,,Active
+CO-3140,BR-2010,Gilang Sample,Digital Media,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-08-06,2026-08-20,2026-08-22,Good,Good,Returned
+CO-3141,BR-2008,Tono Fiction,Learning Services,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-05-02,2026-05-09,2026-05-09,Good,Needs Inspection,Returned
+CO-3142,BR-2014,Kevin Demo,Digital Media,EQ-1013,USB Microphone,CAT-02,Audio Visual,2026-05-21,2026-05-24,2026-05-25,Good,Good,Returned
+CO-3143,BR-2010,Gilang Sample,Digital Media,EQ-1016,Webcam HD,CAT-02,Audio Visual,2026-05-27,2026-06-01,2026-06-01,Good,Good,Returned
+CO-3144,BR-2011,Putri Example,Engineering Lab,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-02-19,2026-03-05,2026-03-05,Good,Good,Returned
+CO-3145,BR-2012,Farhan Fiction,Learning Services,EQ-1005,Wi-Fi Access Point,CAT-03,Networking,2026-02-16,2026-02-23,2026-02-23,Good,Good,Returned
+CO-3146,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1012,Teaching Laptop 15-inch,CAT-01,Computing,2026-09-29,2026-10-09,2026-10-11,Good,Good,Returned
+CO-3147,BR-2008,Tono Fiction,Learning Services,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-06-23,2026-06-26,2026-06-26,Good,Good,Returned
+CO-3148,BR-2011,Putri Example,Engineering Lab,EQ-1013,USB Microphone,CAT-02,Audio Visual,2026-07-07,2026-07-10,2026-07-10,Good,Good,Returned
+CO-3149,BR-2011,Putri Example,Engineering Lab,EQ-1009,Tablet 10-inch,CAT-01,Computing,2026-07-15,2026-07-29,2026-07-29,Good,Good,Returned
+CO-3150,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1018,Mini PC,CAT-01,Computing,2026-06-17,2026-06-27,2026-06-27,Good,Good,Returned
+CO-3151,BR-2005,Sinta Placeholder,Engineering Lab,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-03-01,2026-03-06,,Good,,Overdue
+CO-3152,BR-2008,Tono Fiction,Learning Services,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-02-19,2026-02-24,2026-02-24,Good,Good,Returned
+CO-3153,BR-2012,Farhan Fiction,Learning Services,EQ-1018,Mini PC,CAT-01,Computing,2026-08-03,2026-08-13,2026-08-13,Good,Good,Returned
+CO-3154,BR-2008,Tono Fiction,Learning Services,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-07-28,2026-08-04,,Good,,Overdue
+CO-3155,BR-2008,Tono Fiction,Learning Services,EQ-1015,Portable SSD,CAT-05,Accessories,2026-05-01,2026-05-08,,Good,,Overdue
+CO-3156,BR-2009,Lina Demo,Computer Science,EQ-1012,Teaching Laptop 15-inch,CAT-01,Computing,2026-02-01,2026-02-08,2026-02-12,Good,Minor Damage,Returned
+CO-3157,BR-2002,Rafi Sample,Computer Science,EQ-1007,Document Camera,CAT-02,Audio Visual,2026-01-11,2026-01-14,2026-01-14,Good,Good,Returned
+CO-3158,BR-2002,Rafi Sample,Computer Science,EQ-1018,Mini PC,CAT-01,Computing,2026-04-17,2026-04-27,2026-04-29,Good,Good,Returned
+CO-3159,BR-2015,Dewi Placeholder,Engineering Lab,EQ-1020,Presentation Clicker,CAT-05,Accessories,2026-01-02,2026-01-09,2026-01-09,Good,Good,Returned
+CO-3160,BR-2003,Mira Demo,Learning Services,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-01-14,2026-01-19,,Good,,Overdue
+CO-3161,BR-2004,Dimas Fiction,Computer Science,EQ-1019,Router Lab Kit,CAT-03,Networking,2026-06-15,2026-06-18,2026-06-18,Good,Good,Returned
+CO-3162,BR-2012,Farhan Fiction,Learning Services,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-09-01,2026-09-08,2026-09-08,Good,Good,Returned
+CO-3163,BR-2010,Gilang Sample,Digital Media,EQ-1002,Wireless Microphone Set,CAT-02,Audio Visual,2026-09-24,2026-10-01,2026-10-05,Good,Good,Returned
+CO-3164,BR-2007,Ayu Example,Engineering Lab,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-02-25,2026-03-04,2026-03-04,Good,Minor Damage,Returned
+CO-3165,BR-2003,Mira Demo,Learning Services,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-03-06,2026-03-13,2026-03-14,Good,Good,Returned
+CO-3166,BR-2010,Gilang Sample,Digital Media,EQ-1017,Lighting Kit,CAT-04,Photography,2026-05-31,2026-06-07,2026-06-07,Good,Good,Returned
+CO-3167,BR-2011,Putri Example,Engineering Lab,EQ-1018,Mini PC,CAT-01,Computing,2026-04-21,2026-04-28,2026-04-28,Good,Good,Returned
+CO-3168,BR-2007,Ayu Example,Engineering Lab,EQ-1004,Mirrorless Camera,CAT-04,Photography,2026-06-10,2026-06-17,2026-06-17,Good,Minor Damage,Returned
+CO-3169,BR-2008,Tono Fiction,Learning Services,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-02-16,2026-02-19,,Good,,Overdue
+CO-3170,BR-2012,Farhan Fiction,Learning Services,EQ-1012,Teaching Laptop 15-inch,CAT-01,Computing,2026-03-08,2026-03-18,,Minor Damage,,Overdue
+CO-3171,BR-2009,Lina Demo,Computer Science,EQ-1011,Tripod Kit,CAT-04,Photography,2026-03-04,2026-03-11,2026-03-12,Good,Good,Returned
+CO-3172,BR-2012,Farhan Fiction,Learning Services,EQ-1002,Wireless Microphone Set,CAT-02,Audio Visual,2026-05-28,2026-06-07,2026-06-07,Good,Good,Returned
+CO-3173,BR-2008,Tono Fiction,Learning Services,EQ-1008,Network Switch 8-port,CAT-03,Networking,2026-02-25,2026-03-04,2026-03-04,Good,Good,Returned
+CO-3174,BR-2013,Intan Sample,Computer Science,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-01-14,2026-01-24,2026-01-26,Good,Good,Returned
+CO-3175,BR-2012,Farhan Fiction,Learning Services,EQ-1010,HDMI Capture Device,CAT-05,Accessories,2026-06-23,2026-06-30,,Good,,Overdue
+CO-3176,BR-2010,Gilang Sample,Digital Media,EQ-1013,USB Microphone,CAT-02,Audio Visual,2026-02-05,2026-02-10,2026-02-14,Good,Good,Returned
+CO-3177,BR-2007,Ayu Example,Engineering Lab,EQ-1014,Ethernet Adapter Kit,CAT-03,Networking,2026-08-21,2026-08-28,,Good,,Overdue
+CO-3178,BR-2006,Bima Sample,Digital Media,EQ-1019,Router Lab Kit,CAT-03,Networking,2026-02-13,2026-02-16,,Good,,Overdue
+CO-3179,BR-2001,Nadia Example,Digital Media,EQ-1003,USB-C Docking Station,CAT-05,Accessories,2026-05-20,2026-05-27,2026-05-27,Good,Good,Returned
+CO-3180,BR-2013,Intan Sample,Computer Science,EQ-1017,Lighting Kit,CAT-04,Photography,2026-02-28,2026-03-07,2026-03-07,Good,Good,Returned

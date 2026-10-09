@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Campus Equipment Checkout</title><link rel="stylesheet" href="styles.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script defer src="app.js"></script>
+</head>
+<body>
+<aside class="sidebar"><div class="brand"><div class="logo">CE</div><div><strong>CampusKit</strong><small>Equipment services</small></div></div>
+<div class="nav-label">WORKSPACE</div>
+<button class="nav-item active" data-page="dashboard">▦ &nbsp; Dashboard</button><button class="nav-item" data-page="equipment">▣ &nbsp; Equipment</button><button class="nav-item" data-page="checkouts">⇄ &nbsp; Checkouts</button><button class="nav-item" data-page="borrowers">♙ &nbsp; Borrowers</button><button class="nav-item" data-page="categories">▤ &nbsp; Categories</button>
+<div class="side-bottom"><span class="avatar">ED</span><div><strong>Educator Demo</strong><small>Teaching workspace</small></div></div></aside>
+<main><header><div><div class="eyebrow">CAMPUS OPERATIONS</div><h1 id="page-title">Dashboard</h1></div><div class="header-actions"><span class="demo-pill">SYNTHETIC DATA</span><button id="toggle-analysis" class="btn ghost">▥ Business Analysis</button><button id="refresh" class="btn ghost">↻ Refresh</button></div></header>
+<div id="notice" class="notice"></div>
+<section id="page-dashboard" class="page"><div class="hero"><div><div class="eyebrow">EQUIPMENT AT A GLANCE</div><h2>Everything ready for the next class.</h2><p>Track assets, checkouts, due dates, and equipment condition.</p></div><div class="hero-symbol">↗</div></div>
+<div class="stats"><article><span>Equipment assets</span><strong id="stat-assets">—</strong><small>Items in the inventory</small></article><article><span>Active checkouts</span><strong id="stat-active">—</strong><small>Currently marked borrowed</small></article><article><span>Overdue items</span><strong id="stat-overdue">—</strong><small>Needs follow-up</small></article><article><span>Maintenance items</span><strong id="stat-maintenance">—</strong><small>Needs attention</small></article></div>
+<div class="panel"><div class="panel-head"><div><h3>Recent checkout activity</h3><p>Latest transactions in the demo dataset</p></div><button class="link" data-goto="checkouts">View all →</button></div><div id="recent-table" class="table-wrap"></div></div>
+<div class="panel"><div class="panel-head"><div><h3>Equipment availability</h3><p>Current inventory status</p></div></div><div id="availability" class="availability"></div></div>
+<div class="footnote">Instructor teaching demo · All sample records are fictional</div></section>
+<section id="page-analysis" class="page hidden"><div class="toolbar"><div><h2>Business Problem Analysis</h2><p>Dataset insights, baseline metrics, and mapping from findings to web requirements.</p></div></div><div class="analysis-frame-wrap"><iframe class="analysis-frame" src="analysis.html" title="CampusKit Business Analysis Dashboard" loading="lazy"></iframe></div><div class="footnote">Metrics use synthetic teaching data; they are not findings from a real campus.</div></section>
+<section id="page-equipment" class="page hidden"><div class="toolbar"><div><h2>Equipment inventory</h2><p>Search assets and view their current status.</p></div><button class="btn primary" id="add-equipment">＋ Add equipment</button></div><div class="panel"><input id="equipment-search" class="search" placeholder="Search asset, equipment, brand…"><div id="equipment-table" class="table-wrap"></div></div></section>
+<section id="page-checkouts" class="page hidden"><div class="toolbar"><div><h2>Checkout history</h2><p>Review borrowers, due dates, and returns.</p></div><button class="btn primary" id="add-checkout">＋ Add checkout</button></div><div class="panel filter"><input id="checkout-search" class="search" placeholder="Search transaction, borrower, or asset…"><select id="checkout-filter"><option value="">All statuses</option><option>Borrowed</option><option>Returned</option><option>Overdue</option></select><div id="checkout-table" class="table-wrap"></div></div></section>
+<section id="page-borrowers" class="page hidden"><div class="toolbar"><div><h2>Borrowers</h2><p>Fictional borrower records for demonstration.</p></div><button class="btn primary" id="add-borrower">＋ Add borrower</button></div><div class="panel"><div id="borrower-table" class="table-wrap"></div></div></section>
+<section id="page-categories" class="page hidden"><div class="toolbar"><div><h2>Equipment categories</h2><p>Reference list for classifying inventory.</p></div></div><div class="panel"><div id="category-table" class="table-wrap"></div></div></section>
+<footer>CampusKit · Campus Equipment Checkout · Teaching prototype</footer></main>
+<dialog id="modal"><form id="record-form" method="dialog"><div class="modal-head"><div><div class="eyebrow">WORKSPACE DATA</div><h2 id="modal-title">Add record</h2></div><button type="button" id="close-modal" class="close">×</button></div><div id="fields" class="fields"></div><div class="modal-actions"><button type="button" id="cancel" class="btn ghost">Cancel</button><button class="btn primary" type="submit">Save record</button></div></form></dialog>
+</body></html>

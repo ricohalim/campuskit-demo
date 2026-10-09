@@ -1,0 +1,24 @@
+{
+  "as_of": "2026-10-09",
+  "total_transactions": 180,
+  "returned": 143,
+  "active": 5,
+  "overdue": 32,
+  "returned_late": 55,
+  "late_return_rate_pct": 38.5,
+  "returned_with_condition_issue": 13,
+  "condition_issue_rate_pct": 9.1,
+  "transactions_by_category": {
+    "Photography": 30,
+    "Computing": 34,
+    "Accessories": 43,
+    "Networking": 44,
+    "Audio Visual": 29
+  },
+  "transactions_by_department": {
+    "Engineering Lab": 53,
+    "Digital Media": 48,
+    "Computer Science": 40,
+    "Learning Services": 39
+  }
+}
